@@ -11,5 +11,16 @@
 
 <p align="center">
   <img width="500" height="404" src="https://lh4.googleusercontent.com/proxy/jxDM5jOsckU7dlzt2ZAIl1S62g2GfgfPwQnunkkUHGi3FR_RTTNPgMKZSohuBNtQJaHa2odN_5W0iaMYIhpLqGv1qEGDMsYf1yIkcMPmUkAAfdP6rDa8dbwRBoQrRBCpng">
-  <img width="500" height="404" src="">
+</p
+
+#### По мне так, это правильное отношение
+#### Ко всем проблемам, не имеющим решения
+#### А если всё же что-то можно ещё исправить
+#### Скорей всего, Саша делать ничего не станет
+
+## Вокруг всё рушится, мир колбасит и трясёт
+## А Кислый говорит спокойно:
+
+<p align="center">
+  <img width="500" height="404" src="https://i.ytimg.com/vi/D6i9goBbKUg/hqdefault.jpg">
 </p
